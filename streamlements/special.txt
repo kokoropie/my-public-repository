@@ -1,0 +1,10 @@
+:[Funmelody] Whoa, it's... me? You know me, right? I think I was streaming $(args.1) the last time I was live at Twitch.tv/Funmelody Ehe
+:[kilysathemorales] Giáo chủ Kily của Giáo Hội Tri Thức Cấm Kỵ! Còn chờ gì nữa mà không gia nhập ngay Giáo đoàn ủi quái cực chill với Kily ở Teyvat tại Twitch.tv/KilysaTheMorales nào! DinoDance
+:[moemoekawaii] Moe siêu cấp ngọt ngào và thân thiện nè mọi người ơi~! Đừng bỏ lỡ những phút giây thư giãn và chill với Moe khi cô ấy chơi $(args.1) cùng những tựa game khác tại Twitch.tv/Moemoekawaii nha INZOIPsyCat
+:[harrypoozzz] Lord of The 5-minute Testing Game is here! Cùng xem anh ấy bán hành cho Boss và những tựa game linh dị 'không có gì đáng sợ cả' tại Twitch.tv/HarryPoozzz nha~ PewPewPew
+:[gentlecomet_xd] Chẳng phải đây là Lưu Vân Thỏ Ngọc Tá Phong Chân Quân sao! Luna luôn luôn lắng nghe và đôi khi thấu hiểu nên đừng bỏ lỡ cô ấy stream $(args.1) thật chill tại Twitch.tv/gentlecomet_xd nhé! 🥕
+:[yayoipeony] Tiếng Anh khó sẽ có Yayoi lo! Cùng học thêm ngoại ngữ và chill với Yayoi khi cô ấy chơi $(args.1) ở kênh Titch.tv/yayoipeony nha~ BangbooBounce
+:[soppone] SOPPONE is your go-to casual gamer nurse! She might get frustrated easily, but that just makes it more entertaining. Drop by to watch her play $(args.1), soak in some cozy vibes and maybe even some crochet talk at Twitch.tv/SOPPONE! TwitchConHYPE
+
+Yo everyone! $(1) is awesome and I think you'll enjoy watching them at Twitch.tv/$(1) where they were last playing $(args.1)!
+Hey everyone, $(1) seems like a super cool person! They were last playing $(args.1) over at Twitch.tv/$(1) Check it out! SeemsGood 
