@@ -1,0 +1,100 @@
+$(random.1-100) cái gối
+$(random.1-100) chai nhựa
+$(random.1-100) Mora
+$(random.1-100) bông hoa 🌹
+$(random.1-100) máy Playstation 5
+$(random.1-100) mảnh ghép LEGO
+$(random.1-100) bóng bay 🎈
+$(random.1-100) chậu cây
+$(random.1-100) cây súng nước 🔫
+$(random.1-100) cái đồng hồ 🕰️
+$(random.1-100) mô hình figure
+$(random.1-100) cái dép 🩴
+$(random.1-100) điều khiển TV
+$(random.1-100) tay cầm Xbox 🎮
+$(random.1-100) quả cầu ma thuật 🔮
+$(random.1-100) miếng rửa bát 🧽
+$(random.1-100) tai nghe bluetooth
+$(random.1-100) kiếm đồ chơi
+$(random.1-100) quyển sách 📗
+$(random.1-100) Laptop 💻
+$(random.1-100) món đồ trang sức 💍
+$(random.1-100) hộp quà bí ẩn 🎁
+$(random.1-100) cái găng tay 🧤
+$(random.1-100) túi xách 👜
+$(random.1-100) quyển vở 📓
+$(random.1-100) thước kẻ 📏
+$(random.1-100) gấu bông 🧸
+$(random.1-100) cây bút 🖋️
+$(random.1-100) cục tẩy
+$(random.1-100) áo thun 👕
+$(random.1-100) quả bóng ⚽
+$(random.1-100) cái muỗng 🥄
+$(random.1-100) quần jeans 👖
+$(random.1-100) iPhone 16
+$(random.1-100) thùng carton 📦
+$(random.1-100) kính râm 🕶️
+$(random.1-100) cái lược
+$(random.1-100) đôi đũa 🥢
+$(random.1-100) cái mâm
+$(random.1-100) kẹp giấy 📎
+$(random.1-100) cái xô
+$(random.1-100) kẹp tóc
+$(random.1-100) viên phấn
+$(random.1-100) cục xà phòng 🧼
+$(random.1-100) cái đèn pin 🔦
+$(random.1-100) móc treo áo quần
+$(random.1-100) cây dù ☂️
+$(random.1-100) kính lúp 🔍
+$(random.1-100) quả địa cầu
+$(random.1-100) USB
+$(random.1-100) điện thoại để bàn ☎️
+$(random.1-100) bảng vẽ
+$(random.1-100) iPad 
+$(random.1-100) cái chìa khóa 🗝️
+$(random.1-100) đồng xu
+$(random.1-100) tờ giấy 📃
+$(random.1-100) cuộn băng keo
+$(random.1-100) hôp đựng bút
+$(random.1-100) máy tính cầm tay
+$(random.1-100) cần câu cá 🎣
+$(random.1-100) cái rổ 🧺
+$(random.1-100) cái két sắt
+$(random.1-100) máy đánh chữ
+$(random.1-100) cuộn len 🧶
+$(random.1-100) cuộn dây thừng
+$(random.1-100) ống nhòm
+$(random.1-100) bình giữ nhiệt
+$(random.1-100) cái la bàn 🧭
+$(random.1-100) thỏi son môi 💄
+$(random.1-100) cây vợt 🎾
+$(random.1-100) lọ muối 🧂
+$(random.1-100) khối rubik
+$(random.1-100) lá bài Tarot
+$(random.1-100) Nguyên Thạch
+$(random.1-100) Film Màu
+$(random.1-100) hộp diêm
+$(random.1-100) bật lửa
+$(random.1-100) túi ngủ
+$(random.1-100) đèn trung thu 🏮
+$(random.1-100) hộp nhựa
+$(random.1-100) bụi cỏ
+$(random.1-100) ấm đun nước
+$(random.1-100) cái thớt
+$(random.1-100) cục than
+$(random.1-100) cái mũ 🧢
+$(random.1-100) nón lá
+$(random.1-100) túi đeo hông
+$(random.1-100) miếng xốp
+$(random.1-100) bộ đề luyện thi IELTS
+$(random.1-100) gậy selfie
+$(random.1-100) linh kiện điện tử
+$(random.1-100) thẻ ATM 💳
+$(random.1-100) cái ví
+$(random.1-100) cây sáo 🪈
+$(random.1-100) cuộn giấy 🧻
+$(random.1-100) chuông gió 🎐
+$(random.1-100) con quay yo-yo 🪀
+$(random.1-100) cục nam châm 🧲
+$(random.1-100) quân xúc xắc 🎲
+$(random.1-100) quân cờ ♟️
